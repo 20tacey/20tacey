@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi im the koolest Baesian Alive Other BaesiansK
 
-<!--
-**20tacey/20tacey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Retired Coder 
 
-Here are some ideas to get you started:
+<img src="https://cdn.discordapp.com/attachments/783886147344138270/784157986515320903/image1-11.gif" alt="Avatar" style="border-radius: 75%;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=20tacey&show_icons=true&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=20tacey&show_icons=true&theme=dark)
+
+
+<a href="https://www.https://www.youtube.com/channel/UCxMk-osy-Ar3LYSlPLX6WZg">youtube</a>
+<a href="https://dsc.bio/treeshing">discord</a>
+<a href="https://open.spotify.com/user/wxx8fw2khtw68ur1qxjt3iasf">spotify</a>
+<a href="https://discord.gg/5NwuYxx6Rk">discord sever</a>
