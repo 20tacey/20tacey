@@ -1,8 +1,8 @@
-Hi im the koolest Baesian Alive Other BaesiansK
+Hi im the koolest Stacey StaceyW
 
 Retired Coder 
 
-<img src="https://cdn.discordapp.com/attachments/783886147344138270/784157986515320903/image1-11.gif" alt="Avatar" style="border-radius: 75%;">
+<img src="https://cdn.discordapp.com/attachments/775385776460267540/784159027705151508/a_d23265061307f0b6ccfa81fae9d81789.gif" alt="Avatar" style="border-radius: 75%;">
 
 ![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=20tacey&show_icons=true&layout=compact&theme=tokyonight)
 
